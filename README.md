@@ -2,7 +2,7 @@
 
 # About Me
 
-Rising Senior at LASA High School looking to major in CS in college. 
+Rising Senior at LASA High School looking to major in CS in college. Some of my hobbies are to code (obviously), listen to music, edit (such as AMVs), play video games, and go for walks.
 
 # Programming Languages
 Python, Java, C++, Ruby, Javascript (along with Google Apps Script), HTML/CSS, Spice
