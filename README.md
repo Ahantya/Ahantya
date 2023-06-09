@@ -15,6 +15,6 @@ Python, Java, C++, Ruby, Javascript (along with Google Apps Script), HTML/CSS, S
 
 [The Spotless Sweepers](https://github.com/Ahantya/ahantya.github.io) - A website (in HTML/CSS) originally made for FBLA 2023's Competition, which focused on a local business that helped out its community. The website earned a State Finalist Award.
 
-[Velo] (coming soon) - An app (in SwiftUI and Xcode) that will allow a student to help organize their schoolwork, give reminders on upcoming assignments, check courses to choose from the upcoming year, and more. 
+[Velo](https://github.com/Ahantya/velo) - An app (in SwiftUI and Xcode) that will allow a student to help organize their schoolwork, give reminders on upcoming assignments, check courses to choose from the upcoming year, and more. 
 
 
