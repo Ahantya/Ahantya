@@ -17,6 +17,6 @@ Python, Java, C++, Ruby, Javascript (along with Google Apps Script), HTML/CSS, S
 
 [WeatherApp](https://github.com/Ahantya/WeatherApp) - A basic weather app that is created in Xcode and SwitfUI (for me to learn more of Swift before I create an a heavier-load app)
 
-[Velo](https://github.com/Ahantya/velo) - An app (in SwiftUI and Xcode) that will allow a student to help organize their schoolwork, give reminders on upcoming assignments, check courses to choose from the upcoming year, and more. 
+[Velo](coming soon) - An app (in SwiftUI and Xcode) that will allow a student to help organize their schoolwork, give reminders on upcoming assignments, check courses to choose from the upcoming year, and more. 
 
 
