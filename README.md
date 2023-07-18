@@ -15,7 +15,7 @@ Python, Java, C++, Ruby, Javascript (along with Google Apps Script), HTML/CSS, S
 
 [The Spotless Sweepers](https://github.com/Ahantya/ahantya.github.io) - A website (in HTML/CSS) originally made for FBLA 2023's Competition, which focused on a local business that helped out its community. The website earned a State Finalist Award.
 
-[Python Task Manager] (https://github.com/Ahantya/Task_Manager_Python) - A Python Application that allows you to create tasks with a due date and priority, including a status of the task. Currently, it saves the tasks into a txt file that can be accessed after the program runs. The 5 main options in the program as of now are add task, delete task, view tasks, complete task, and exit program. This is a relatively new app, so I will be adding more as I go. 
+[Python Task Manager](https://github.com/Ahantya/Task_Manager_Python) - A Python Application that allows you to create tasks with a due date and priority, including a status of the task. Currently, it saves the tasks into a txt file that can be accessed after the program runs. The 5 main options in the program as of now are add task, delete task, view tasks, complete task, and exit program. This is a relatively new app, so I will be adding more as I go. 
 
 [Velo](coming soon) - An app (in Python?) that will allow a student to help organize their schoolwork, give reminders on upcoming assignments, check courses to choose from the upcoming year, and more. 
 
