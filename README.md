@@ -19,6 +19,6 @@ Python, Java, C++, Ruby, Javascript (along with Google Apps Script), HTML/CSS, S
 
 [Velo](coming soon) - An app (in Python?) that will allow a student to help organize their schoolwork, give reminders on upcoming assignments, check courses to choose from the upcoming year, and more. 
 
-[ComplexKanBan](https://github.com/Ahantya/complexkanban-Ahantya) - A C++ Library created from Scratch that can be used for complex numbers with over 30 ish methods and objects, organized in multiple files with comments. Note: I created this for a school project with 3 other people, 2 of 3 which also helped create TuneUp. 
+[Complex KanBan](https://github.com/Ahantya/complexkanban-Ahantya) - A C++ Library created from Scratch that can be used for complex numbers with over 30 ish methods and objects, organized in multiple files with comments. Note: I created this for a school project with 3 other people, 2 of 3 which also helped create TuneUp. 
 
 
