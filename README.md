@@ -23,7 +23,7 @@ Python, Java, C++, Ruby, Javascript (along with Google Apps Script), HTML/CSS, S
 
 [Python Task Manager](https://github.com/Ahantya/Task_Manager_Python) - A Python Application that allows you to create tasks with a due date and priority, including a status of the task. Currently, it saves the tasks into a txt file that can be accessed after the program runs. The 5 main options in the program as of now are add task, delete task, view tasks, complete task, and exit program. This is a relatively new app, so I will be adding more as I go. 
 
-COMING SOON.
+[College Happiness Machine Learning Model] (coming soon)
 
 
 
