@@ -13,9 +13,11 @@ Python, Java, C++, Ruby, Javascript (along with Google Apps Script), HTML/CSS, S
 
 [Microsoft Rewards Updater](https://github.com/Ahantya/Microsoft-Rewards-Updater) - An application (in Python) that allows for a user to input their data on their Microsoft Rewards Points into a new file, and updates their data in a file while allowing to pick on a variety of features, such as their average earnings per day, as well as the time until their inputted goal will be reached based on their past analytics.
 
-[The Spotless Sweepers](https://github.com/Ahantya/ahantya.github.io) - A website (in HTML/CSS) originally made for FBLA 2023's Competition, which focused on a local business that helped out its community. The website earned a State Finalist Award.
+[The Spotless Sweepers](https://github.com/Ahantya/ahantya.github.io) - A website (in HTML/CSS) originally made for FBLA 2023's Website Design Competition, which focused on a local business that helped out its community. The website earned a State Finalist Award and 1st in Regionals.
 
 [Complex KanBan](https://github.com/Ahantya/complexkanban-Ahantya) - A C++ Library created from Scratch that can be used for complex numbers with over 30 ish methods and objects, organized in multiple files with comments. Note: I created this for a school project with 3 other people, 2 of 3 which also helped create TuneUp. 
+
+[Business Partner Database](https://github.com/Ahantya/Coding-Programming) - A Python Program that generates a mongo database with PyQt5 UI and SQLite3 backend support, allowing for an admin and student look through business partners within the Career and Technical Department of a Hypothethical School. The admin log in allows users to add, delete (specific or all partners), edit, and search parters while the student log in allows users to only search partners. Both users can log out or exit the app. (This was done for FBLA 2024 for Coding and Programming and has earned 1st in Regionals so far). 
 
 [Reddit Data Scraper](https://github.com/Ahantya/RedditDataScraper) - A Python Program that allows a user to input which subreddit to pull data from, and how many posts they want. It also downloads any images or gifs from the post onto the computer in a folder named images. Currently, the setting is on hot posts from the subreddit, but it can be changed through a tweak in the code. praw is the Python library that is used to connect the program to Python.
 
